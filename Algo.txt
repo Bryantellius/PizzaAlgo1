@@ -27,5 +27,7 @@ Call the restaurant
 Order your pizza
 Pay for your pizza
 Collect the delivered pizza
+Decide on tip amount
 Eat the pizza
-Review/Rate
+Review
+Repeat
